@@ -1,0 +1,17 @@
+Some sample data showing       
+the transition from a classical
+(thermal gas) to a             
+Bose-Einstein condensate.      
+                               
+Each frame shows the           
+velocity distribution of the   
+cloud after a variable time    
+during the cooling process.    
+As the cloud cools, we go      
+from a classical thermal       
+distribution (described by a   
+gaussian) to a sharply peaked  
+Bose-Einstein condensate       
+(macroscopic occupation of     
+the lowest energy state of the 
+system).                       
