@@ -1,6 +1,7 @@
 # Helium-IP
 
-This is GUI I put together for quick analysis of images.  The code has been adapted to the study of ultracold atoms, and in particular for the study of ultracold metastable Helium-4 at the Institut d'Optique in Palaiseau, France.  
+This is a GUI I put together for analysis of images from an ultracold atoms experiment.  In particular, this GUI has been adapted for the study of ultracold metastable Helium-4 at the Institut d'Optique in Palaiseau, France.  Group webpage here:
+https://www.lcf.institutoptique.fr/lcf-en/Research-groups/Atom-optics/Experiments/Lattice-Gases
 
 This project has been coded in Matlab R2011a using GUIDE.  The project files consists firstly of the GUI layout "HeliumIP.fig" and corresponding script for callbacks "HeliumIP.m".  In addition, various functions have been developed to execute particular tasks in the image processing and analysis.  These functions have the prefix "IP_".  
 
